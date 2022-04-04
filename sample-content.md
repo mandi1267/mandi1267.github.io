@@ -1,9 +1,11 @@
 ---
-title: Home
-layout: home
+title: Sample Content
+layout: page
 weight: 1
-description: Home Page Description
+description: Sample Content Page Description
+permalink: /sample-content/
 ---
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
