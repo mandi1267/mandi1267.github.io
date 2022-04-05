@@ -14,33 +14,33 @@ baseurl: /
 # matomo_siteId: 1
 
 # Contact Me About This Page
-page_contact: false
+page_contact: true
 
 # Excerpts
 show_excerpts: true
 excerpt_separator: <!--more-->
 
 # Avatar, image location override, default /images/avatar.jpg
-# avatar: /images/avatar.jpg
+avatar: /images/amanda_adkins_flowers.jpeg
 
 # Banner, default location override, default /images/banner.jpg
 # this can also be overridden on a per page basis.
 # banner: /images/banner.jpg
 
 # Social Links
-rss: rss
-twitter_username: digitaladapt
-github_username:  digitaladapt
-bitbucket_username: digitaladapt
+#rss: rss
+#twitter_username: digitaladapt
+github_username:  mandi1267
+#bitbucket_username: digitaladapt
 # "Copy ID" from user menu, may need to enable developer mode to see option
-discord_id_number: "570971366833127425"
-discord_username: "DigitalAdapt#8238"
-keybase_username: digitaladapt
+#discord_id_number: "570971366833127425"
+#discord_username: "DigitalAdapt#8238"
+#keybase_username: digitaladapt
 # instagram_username: digitaladapt
 # dribbble_username: digitaladapt
 # facebook_username: digitaladapt
 # flickr_username: digitaladapt
-# linkedin_username: digitaladapt
+linkedin_username: amandaadkins4242
 # pinterest_username: digitaladapt
 # youtube_username: digitaladapt
 # googleplus_username: +digitaladapt
