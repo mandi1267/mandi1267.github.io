@@ -9,6 +9,8 @@ description:
 url: "https://mandi1267.github.io"
 baseurl: /
 
+permalink: none
+
 # Matomo Tracking
 # matomo_url: "://track.tld"
 # matomo_siteId: 1

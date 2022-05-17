@@ -3,9 +3,8 @@ title: Projects
 layout: projects
 weight: 1
 description: 
-permalink: /sample-content/
+permalink: /projects/
 ---
 
-# Coming Soon
-If you want information in the mean time, feel free to email me. 
+This page is a work in progress. If you want additional information in the mean time, feel free to email me! 
 
