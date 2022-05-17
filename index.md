@@ -6,9 +6,9 @@ description:
 ---
 [//]: # (Add link to Joydeep's website)
 
-I am a second year PhD student at the University of Texas at Austin advised by Dr. Joydeep Biswas. I am interested in
+I am a second year PhD student at the University of Texas at Austin advised by [Dr. Joydeep Biswas](https://www.joydeepb.com). I am interested in
  perception for long-term autonomous robots. My research focuses on localization and SLAM approaches robust to movable and moving
-  objects in the robot's environment.
+  objects in the robot's environment. I was recently awarded an NSF Graduate Research Fellowship. 
   
 [//]: # (Add more about research)
   
