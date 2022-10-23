@@ -8,7 +8,7 @@ excerpt: Can we learn and leverage the patterns in where movable objects occur..
 
 Accepted to IROS 2022. 
 
-Links: [[paper](https://arxiv.org/abs/2110.00128)] [[video](https://youtu.be/P4VFh5kD_CE)] [[github](https://github.com/ut-amrl/pom_localization)]
+Links: [[paper](https://arxiv.org/abs/2110.00128)] [[video](https://youtu.be/P4VFh5kD_CE)] [[github](https://github.com/ut-amrl/pom_localization/tree/semanticPoints)]
 
 Authors: Amanda Adkins, Taijing Chen, [Joydeep Biswas](https://www.joydeepb.com)
 
