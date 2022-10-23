@@ -19,7 +19,7 @@ Navigation team at Amazon, I developed cloud services for enabling robot navigat
 on the Autonomous Mobility team, I investigated SLAM solutions for an autonomous mobile robot operating in the highly
 dynamic warehouse environment.   
 
-In my spare time, I like to cook, bake, and do yoga.    
+In my spare time, I like to cook, do yoga, and walk dogs at the local animal shelter.    
 
   
 

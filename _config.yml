@@ -27,7 +27,7 @@ avatar: /images/amanda_adkins_flowers.jpeg
 
 # Banner, default location override, default /images/banner.jpg
 # this can also be overridden on a per page basis.
-# banner: /images/banner.jpg
+banner: /images/website_banner_collage.png
 
 # Social Links
 #rss: rss
