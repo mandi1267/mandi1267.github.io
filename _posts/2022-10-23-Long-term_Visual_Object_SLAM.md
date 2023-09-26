@@ -1,5 +1,5 @@
 ---
-title: ObVi-SLAM: Long-Term Object-Visual SLAM
+title: ObVi-SLAM\: Long-Term Object-Visual SLAM
 layout: post
 banner: /images/chairs_estimation.png
 category: project
