@@ -6,6 +6,8 @@ category: project
 excerpt: Long-term SLAM using objects and visual features
 --- 
 
+Recently submitted to IEEE Robotics and Automation Letters~
+
 Links: arXiv link coming soon!, [[video](https://youtu.be/quJOgnEdaZ0)] [[github](https://github.com/ut-amrl/ObVi-SLAM)]
 
 Collaborators: Amanda Adkins, Taijing Chen, [Joydeep Biswas](https://www.joydeepb.com)
