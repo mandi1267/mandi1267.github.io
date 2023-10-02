@@ -6,9 +6,9 @@ category: project
 excerpt: Long-term SLAM using objects and visual features
 --- 
 
-Recently submitted to IEEE Robotics and Automation Letters~
+Recently submitted to IEEE Robotics and Automation Letters. 
 
-Links: arXiv link coming soon!, [[video](https://youtu.be/quJOgnEdaZ0)] [[github](https://github.com/ut-amrl/ObVi-SLAM)]
+Links: [[paper](https://arxiv.org/abs/2309.15268)], [[video](https://youtu.be/quJOgnEdaZ0)] [[github](https://github.com/ut-amrl/ObVi-SLAM)]
 
 Collaborators: Amanda Adkins, Taijing Chen, [Joydeep Biswas](https://www.joydeepb.com)
 
@@ -16,5 +16,5 @@ Robots responsible for tasks over long time scales must be able to localize cons
 
 ![ObVi-SLAM](/images/chairs_estimation.png) 
 
-Please contact me if you're interested in learning more!
+Please contact me if you're interested in learning more or using our work!
 
