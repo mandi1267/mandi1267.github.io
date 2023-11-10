@@ -6,5 +6,5 @@ description:
 permalink: /projects/
 ---
 
-This page is a work in progress. If you want additional information in the mean time, feel free to email me! 
+If you want additional information on me or any of the projects here, feel free to email me! 
 
