@@ -6,7 +6,7 @@ category: project
 excerpt: Long-term SLAM using objects and visual features
 --- 
 
-Recently submitted to IEEE Robotics and Automation Letters. 
+Accepted to IEEE Robotics and Automation Letters. 
 
 Links: [[paper](https://arxiv.org/abs/2309.15268)], [[video](https://youtu.be/quJOgnEdaZ0)] [[github](https://github.com/ut-amrl/ObVi-SLAM)]
 
